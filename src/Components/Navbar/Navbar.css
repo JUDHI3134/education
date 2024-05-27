@@ -24,3 +24,7 @@ nav ul li{
     width: 20px;
     margin-left: 10px;
 }
+.dark-nav{
+    background: #212EA0;
+    transition: 0.5s;
+}
